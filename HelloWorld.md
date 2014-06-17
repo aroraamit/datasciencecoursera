@@ -1,5 +1,2 @@
-<p><markdown>
-#Markdown Live Editor#
-## This is a Markdown file
 
-</markdown></p>
+##This is a Markdown file
